@@ -6,6 +6,7 @@ namespace sdds
 	// vars
 	const int MAX_DESC = 15;
 	const double MAX_PRICE = 999.999;
+	const int MAX_WRAP = 20;  // Represents the maximum number of wrapping layers a gift can have.  Initialized to 20.
 
 	struct Gift
 	{
